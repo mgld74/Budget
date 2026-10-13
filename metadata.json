@@ -1,0 +1,6 @@
+{
+  "name": "Smart Money Planner",
+  "description": "An intelligent personal finance planner featuring cash flow forecasting, 50/30/20 budgeting, goal tracking, debt payoff calculators, and AI financial advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
